@@ -1,0 +1,5 @@
+/.quarto/
+/dist/
+*.xer
+.env
+.env.*
